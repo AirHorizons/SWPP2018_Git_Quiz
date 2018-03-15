@@ -23,13 +23,13 @@ int main(){
 }
 
 int add(int a, int b) {
-  return a+b; // NEAT add function
+  return a + b; // NEAT add function
 }
 
 int sub(int a, int b) {
-  return a-b; // AWESOME sub function
+  return a - b; // AWESOME sub function
 }
 
 int mul(int a, int b) {
-  return 0; // TODO : FIX IT
+  return a * b; // BRILLIANT mul function
 }
